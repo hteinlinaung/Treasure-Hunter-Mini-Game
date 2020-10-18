@@ -4,7 +4,7 @@ import React from 'react';
 const HomeApp = () => {
     return (
         <div>
-            <h1>Hello World</h1>
+            <h1>Developing of this application will be learning purpose only.</h1>
         </div>
     )
 
